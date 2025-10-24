@@ -1,6 +1,6 @@
 # 🛡️ [JWT Demo]
 
-[A Spring Boot demo showing JWT-based authentication and authorization using Spring Security and Java 8.]
+A Spring Boot demo showing JWT-based authentication and authorization using Spring Security and Java 8.
 
 ---
 
