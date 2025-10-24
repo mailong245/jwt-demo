@@ -1,4 +1,4 @@
-# 🛡️ [JWT Demo]
+# 🛡️ JWT Demo
 
 A Spring Boot demo showing JWT-based authentication and authorization using Spring Security and Java 8.
 
@@ -45,5 +45,11 @@ jwt-demo/
 └── pom.xml
 </pre>
 
+---
+
+## 🏗️ Build and Run
+
+1. Build the application using `mvn clean install`
+1. Run the aplication using `mvn spring-boot:run`
 
 
