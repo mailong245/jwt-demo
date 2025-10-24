@@ -26,6 +26,26 @@ A Spring Boot demo showing JWT-based authentication and authorization using Spri
 | **Build Tool** | Maven |
 
 ---
+<pre>
+
+## ⚙️ Project Structure
+
+```bash
+jwt-demo/
+ ├── src/
+ │   ├── main/
+ │   │   ├── java/com/demo/jsonwebtoken/
+ │   │   │   ├── configuration/
+ │   │   │   ├── controller/
+ │   │   │   ├── model/
+ │   │   │   ├── repository/
+ │   │   │   ├── service/
+ │   │   │   └── JsonwebtokenApplication.java
+ │   │   └── resources/
+ │   │       └── application.yml
+ └── pom.xml
+```
+</pre>
 
 ## ⚙️ Project Structure
 jwt-demo/
